@@ -1,8 +1,8 @@
 ---
 layout: post
 title: MICSECS-2021
-heading: "MICSECS-2021"
-subheading: The XIII Majorov International Conference on Software Engineering and Computer Systems
+heading: "We invite you to the MICSECS-2022 conference!"
+subheading: [https://2022.micsecs.org/](https://2022.micsecs.org/)
 banner: "/assets/images/banners/home_5-01-01.jpg"
 ---
 **We invite you to the MICSECS-2022 conference!**
